@@ -1,0 +1,11 @@
+﻿*.o
+*.exe
+*.class
+out/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.swp
+a.out

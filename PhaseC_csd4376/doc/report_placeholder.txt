@@ -1,0 +1,7 @@
+﻿Phase C report placeholder.
+
+Replace this file with your final report (doc or pdf) including:
+- system description,
+- evaluation setup,
+- per-topic analysis,
+- aggregate statistics and conclusions.
